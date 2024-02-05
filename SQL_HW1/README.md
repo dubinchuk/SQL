@@ -2,7 +2,7 @@
 
 #### SQL_DDL. Первая часть.
 
-#### <u>Таблица employees</u>
+### Таблица employees
 
 **1. Создать таблицу `employees`**
 - `id`. `serial`,  `primary key`,
@@ -10,7 +10,7 @@
 
 **2. Наполнить таблицу `employees` 70 строками.**
 
-#### <u>Таблица salary</u>
+### Таблица salary
 
 **3. Создать таблицу `salary`**
 - `id`. `Serial`  `primary key`,
@@ -34,7 +34,7 @@
 - 2400
 - 2500
 
-#### <u>Таблица employee_salary</u>
+### Таблица employee_salary
 
 **5. Создать таблицу `employee_salary`**
 
@@ -60,7 +60,7 @@
 | 11  | 33          | 7         |
 | ... | ...         | ...       |
 
-#### <u>Таблица roles</u>
+### Таблица roles
 
 **7. Создать таблицу roles**
 - `id`. `Serial`  `primary key`,
@@ -93,7 +93,7 @@
 | 19 | Middle Automation QA engineer |
 | 20 | Senior Automation QA engineer |
 
-#### <u>Таблица roles_employee</u>
+### Таблица roles_employee
 
 **10. Создать таблицу `roles_employee`**
 - `id`. `Serial`  `primary key`,
